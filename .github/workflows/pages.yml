@@ -1,7 +1,7 @@
 name: Deploy to GitHub Pages 
 on: 
   push:
-    branches: [festive-shannon-2nxao7]
+    branches: [Game-app]
   workflow_dispatch:
 permissions:
   contents: read
