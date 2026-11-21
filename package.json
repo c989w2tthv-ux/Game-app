@@ -1,0 +1,19 @@
+{
+  "name": "gloambreak",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A life RPG for iOS: real-life quests reclaim a fantasy realm.",
+  "scripts": {
+    "start": "npx --yes serve www -l 8080",
+    "ios:add": "npx cap add ios",
+    "ios:sync": "npx cap sync ios",
+    "ios:open": "npx cap open ios"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "appId": "com.gloambreak.app",
+  "appName": "Gloambreak",
+  "webDir": "www",
+  "ios": { "contentInset": "never", "backgroundColor": "#10191E" }
+}
